@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fasalesconsulting.com/sitemap.xml
